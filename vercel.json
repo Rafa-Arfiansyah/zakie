@@ -2,7 +2,7 @@
     "routes": [
       {
         "src": "/",
-        "dest": "1Admin/Beranda.html"
+        "dest": "0Loginpage/login.html"
       }
     ]
   }
