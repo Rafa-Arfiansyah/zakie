@@ -1,0 +1,8 @@
+{
+    "routes": [
+      {
+        "src": "/",
+        "dest": "/0admin/beranda.html"
+      }
+    ]
+  }
